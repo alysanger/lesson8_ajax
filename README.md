@@ -13,8 +13,7 @@ Aly Sanger-Hodgson
 Using AJAX, building a new application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alysanger.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. How AJAX is used in conjunction and separately from other languages.
